@@ -96,7 +96,7 @@ dependencies:
   - python-dateutil=2.9.0
   - python-tzdata=2023.3
   - python_abi=3.12
-  - pytorch=2.2.1
+  - pytorch=2.2.2
   - pytz=2023.3.post1
   - pyyaml=6.0.1
   - pyzmq=25.1.2
@@ -104,6 +104,7 @@ dependencies:
   - requests=2.31.0
   - scikit-learn=1.4.1.post1
   - scipy=1.12.0
+  - seaborn=0.12.2
   - setuptools=69.2.0
   - shellcheck=0.7.2
   - six=1.16.0
@@ -112,8 +113,8 @@ dependencies:
   - tbb=2021.8.0
   - threadpoolctl=2.2.0
   - tk=8.6.13
-  - torchaudio=2.2.1
-  - torchvision=0.17.1
+  - torchaudio=2.2.2
+  - torchvision=0.17.2
   - tornado=6.4
   - traitlets=5.14.2
   - typing_extensions=4.10.0
